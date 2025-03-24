@@ -5,8 +5,8 @@ import network
 import urequests as requests
 
 # Wi-Fi 
-SSID = "ifone"
-PASSWORD = "Inder2003"
+SSID = ""
+PASSWORD = ""
 
 # initialize HX711 pins
 dout = 4  # DAT
